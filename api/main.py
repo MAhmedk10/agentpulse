@@ -18,4 +18,4 @@ app.include_router(copilot.router, prefix="/v1", tags=["copilot"])
 
 @app.get('/health')
 def health():
-    return {'status': 'ok', 'version': '1.0.0'}
+    return {'status': 'ok', 'version': '1.0.0'}# redeployed
