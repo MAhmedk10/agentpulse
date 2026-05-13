@@ -9,4 +9,4 @@ pinned: false
 
 # AgentPulse API
 
-FastAPI backend for AgentPulse — business intelligence for agentic AI.
+FastAPI backend for AgentPulse — business intelligence for agentic AI and buisnesses" " 
