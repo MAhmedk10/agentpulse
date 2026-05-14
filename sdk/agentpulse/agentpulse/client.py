@@ -1,7 +1,7 @@
 import httpx
 from typing import Dict, Any
 
-DEFAULT_BASE_URL = "https://astrik10-agentpulse-backend.hf.space"
+DEFAULT_BASE_URL = "https://astrik10-agentpulse-api.hf.space"
 
 class AgentPulseClient:
     def __init__(self, api_key: str, project_id: str, base_url: str = None):
